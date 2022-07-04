@@ -143,10 +143,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
+    - name: Komunikasi
       closed: true
-    - name: Empty Category
+    - name: Kolaborasi
+    - name: Membaca
     - name: Uncategorized
       untitled: true
 
@@ -163,7 +163,7 @@ params:
     - name: XMPP
       category: Komunikasi
     - name: Etherpad
-      category: Produktifitas
+      category: Kolaborasi
       link: https://etherpad.nawan.my.id/
     - name: LimeSurvey
       description: Aplikasi web untuk membuat formulir dan survei.
